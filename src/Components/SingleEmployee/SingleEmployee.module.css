@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html body
+{
+    width: 100%;
+}
+.mainsection
+{
+    width: 350px;
+    height: auto;
+    border: 1px solid greenyellow;
+    margin: 50px auto;
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+.headingname
+{
+    margin-left: 50px;
+    color: black;
+    background-color: white;
+    width: 200px;
+    padding-left: 40px;
+    border-radius: 20px;
+    height: 25px;
+    margin-top: 10px;
+}
+.singlecontainer
+{
+    width: 300px;
+    height: auto;
+    /* border: 1px solid gray; */
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-left: 20px;
+}

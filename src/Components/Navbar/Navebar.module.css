@@ -1,0 +1,48 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html body
+{
+    width: 100%;
+}
+.navebardesign
+{
+    width: 100%;
+    height: 80px;
+    /* border: 2px solid red; */
+    background-color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+.navecontainer
+{
+    width: 90%;
+    height: 90%;
+    /* border: 1px solid yellow; */
+    margin-left: 65px;
+    margin-top: 5px;
+}
+.ullist
+{
+    width: 90%;
+    height: 90%;
+    /* border: 2px solid green; */
+    margin-left: 65px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    list-style-type: none;
+}
+.lilist
+{
+    color: aqua;
+    text-decoration: none;
+}
+.lilist:hover
+{
+    color: yellow;
+}
